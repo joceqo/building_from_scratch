@@ -4,3 +4,6 @@
 [submodule "build_your_own_svelte"]
 	path = build_your_own_svelte
 	url = git@github.com:joceqo-from-scratch/build_your_own_svelte.git
+[submodule "build_your_own_frontend_framework"]
+	path = build_your_own_frontend_framework
+	url = git@github.com:joceqo-from-scratch/build_your_own_frontend_framework.git
