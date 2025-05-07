@@ -1,3 +1,6 @@
 [submodule "javascript_bunder_from_scratch"]
 	path = javascript_bunder_from_scratch
 	url = git@github.com:joceqo-from-scratch/javascript_bunder_from_scratch.git
+[submodule "build_your_own_svelte"]
+	path = build_your_own_svelte
+	url = git@github.com:joceqo-from-scratch/build_your_own_svelte.git
